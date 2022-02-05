@@ -2,11 +2,13 @@
 
 - ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
 
-<h3 align="left">Contact with me: 👇</h3>
-<p align="left">
-</p>  
+<!--
+    <h3 align="left">Contact with me:</h3>
+    <p align="left">
+    </p>
+-->  
 
-### Languages and Tools: 👇
+### 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-3267a8?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-173bb3?style=flat-square&logo=cplusplus)
