@@ -11,7 +11,7 @@
 ![C](https://img.shields.io/badge/-C-3267a8?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-173bb3?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/Cs-a832a8?style=flat-square&logo=csharp)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="xd" width="50" height="20"/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
  
