@@ -1,13 +1,14 @@
-## 👋 Hi there. I'm Ivan.
+## 👋 Hi there.
+I'm Ivan.
 
-- ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
+⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
 
 
-#### 💬 Contacts
+### 💬 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-3267a8?style=flat-square&logo=Telegram)](https://t.me/steindvart)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/)
 
-#### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-3267a8?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-173bb3?style=flat-square&logo=cplusplus)
@@ -18,29 +19,25 @@
 
 ![CodeWars](https://www.codewars.com/users/Steindvart/badges/small)
  
-<details>
-    <summary>
-        <b>📊 GitHub Stats (click)</b>
-    </summary>
-    <p>
-        <table>
-            <td> 
-                <img src="https://github-readme-stats.vercel.app/api?username=steindvart&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
-            </td>
-            <td> 
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steindvart&show_icons=true&locale=en&layout=compact&theme=blue-green&langs_count=4"/>
-            </td>
-        </table>
-    </p>
-    <p>
-        <p align="center">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steindvart&theme=blue-green"/>
-        </p>
-    </p>
-    <!-- 
-    ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=steindvart&theme=react-dark&hide_border=github_dark)
-    -->
+ ### 📊 Github stats
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Steindvart&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steindvart&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="Steindvart's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Steindvart&theme=react&hide_border=true"/>
+  </a>
+</p>
 
 #### 🗺️ Info sections in develop
 - [x] Contacts with me
