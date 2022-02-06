@@ -1,8 +1,9 @@
-## 👋 Hi there.
-I'm Ivan.
+## 👋 Hi there. I'm Ivan.
 
-⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
-
+- ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
+- 📚 I like to learn new things and improve my skills.
+- 💬 Ask me about anything tech or study related, I am happy to help.
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/).
 
 ### 💬 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-3267a8?style=flat-square&logo=Telegram)](https://t.me/steindvart)
@@ -20,9 +21,9 @@ I'm Ivan.
 ![CodeWars](https://www.codewars.com/users/Steindvart/badges/small)
  
  ### 📊 Github stats
-<details> 
+<!--<details>
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
+  <br/>-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Steindvart&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/>
   </a>
@@ -30,9 +31,9 @@ I'm Ivan.
       <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steindvart&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
   </a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
+  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<!--</details>-->
+ <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Steindvart's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Steindvart&theme=react&hide_border=true"/>
