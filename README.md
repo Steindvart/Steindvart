@@ -40,8 +40,9 @@
   </a>
 </p>
 
-#### 🗺️ Info sections in develop
-- [x] Contacts with me
-- [ ] Pinned repo
-- [ ] Learning list
-- [ ] Improve of skills list
+<!--
+    - [x] Contacts with me
+    - [ ] Pinned repo
+    - [ ] Learning list
+    - [ ] Improve of skills list
+-->
