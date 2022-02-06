@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ivan!</h1>
+## 👋 Hi there. I'm Ivan.
 
 - ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
 
 
-### 💬 Contacts
+#### 💬 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-3267a8?style=flat-square&logo=Telegram)](https://t.me/steindvart)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/)
 
-### 🛠️ Languages and Tools
+#### 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-3267a8?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-173bb3?style=flat-square&logo=cplusplus)
@@ -18,24 +18,29 @@
 
 ![CodeWars](https://www.codewars.com/users/Steindvart/badges/small)
  
-<h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="32"> <b>GitHub Stats</b></h2>
-
-<table>
-    <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=steindvart&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
-    </td>
-    <td> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steindvart&show_icons=true&locale=en&layout=compact&theme=blue-green&langs_count=4"/>
-    </td>
-</table>
-
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steindvart&theme=blue-green" />
-</p>
-
-<!-- 
+<details>
+    <summary>
+        <b>📊 GitHub Stats (click)</b>
+    </summary>
+    <p>
+        <table>
+            <td> 
+                <img src="https://github-readme-stats.vercel.app/api?username=steindvart&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
+            </td>
+            <td> 
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steindvart&show_icons=true&locale=en&layout=compact&theme=blue-green&langs_count=4"/>
+            </td>
+        </table>
+    </p>
+    <p>
+        <p align="center">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steindvart&theme=blue-green"/>
+        </p>
+    </p>
+    <!-- 
     ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=steindvart&theme=react-dark&hide_border=github_dark)
--->
+    -->
+</details>
 
 #### 🗺️ Info sections in develop
 - [x] Contacts with me
