@@ -30,8 +30,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steindvart&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
   </a>
-  <br/>
-  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <!--</details>-->
  <br/>
 <p align="center">
@@ -39,6 +37,7 @@
     <img alt="Steindvart's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Steindvart&theme=react&hide_border=true"/>
   </a>
 </p>
+<i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
 <!--
     - [x] Contacts with me
