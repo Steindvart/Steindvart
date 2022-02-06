@@ -2,11 +2,10 @@
 
 - ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
 
-<!--
-    <h3 align="left">Contact with me:</h3>
-    <p align="left">
-    </p>
--->
+
+### 💬 Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-3267a8?style=flat-square&logo=Telegram)](https://t.me/steindvart)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/)
 
 ### 🛠️ Languages and Tools
 
@@ -39,7 +38,7 @@
 -->
 
 #### 🗺️ Info sections in develop
-- [ ] Contacts with me
+- [x] Contacts with me
 - [ ] Pinned repo
 - [ ] Learning list
 - [ ] Improve of skills list
