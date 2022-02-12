@@ -1,7 +1,9 @@
 ## Common
 
+### Data
 - [7-Zip](https://www.7-zip.org/)
 - [Obsidian](https://obsidian.md/)
+- [Mega Sync](https://mega.nz/desktop)
 
 ### Web
 - [Chrome](https://www.google.com/intl/ru_ru/chrome/)
@@ -11,6 +13,7 @@
 - [Git](https://git-scm.com/downloads)
 - [Python](https://www.python.org/downloads/)
 - [VSCode](https://code.visualstudio.com/)
+- [p4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 - [VirtualBox](https://www.virtualbox.org/)
 
 ### Social
