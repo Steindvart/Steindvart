@@ -31,14 +31,16 @@
 - [Wox](http://www.wox.one/)
 - [AIDA64](https://www.aida64.com/downloads)
 - [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
-- [LightShot](https://app.prntscr.com/ru/)
-- [LICEcap](https://www.cockos.com/licecap/)
-- [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Everything](https://www.voidtools.com/ru-ru/)
-- [Focus To-Do](https://www.focustodo.cn/)
+- [uTorrent](#)
 
 ### Media
 - [mpc-hc](https://mpc-hc.org/)
+- [OBS Studio](https://obsproject.com/ru)
+- [LightShot](https://app.prntscr.com/ru/)
+- [LICEcap](https://www.cockos.com/licecap/)
+- [QuickLook](https://github.com/QL-Win/QuickLook)
+- [Focus To-Do](https://www.focustodo.cn/)
 
 ### Dev
 - [Windows Terminal](https://github.com/microsoft/terminal)
