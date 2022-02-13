@@ -30,6 +30,7 @@
 - [StartAllBack](https://www.startallback.com/)
 - [Wox](http://www.wox.one/)
 - [AIDA64](https://www.aida64.com/downloads)
+- [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
 - [LightShot](https://app.prntscr.com/ru/)
 - [LICEcap](https://www.cockos.com/licecap/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
