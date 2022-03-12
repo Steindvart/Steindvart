@@ -6,6 +6,7 @@
 - [Mega Sync](https://mega.nz/desktop)
 
 ### Web
+- [Brave](https://brave.com/)
 - [Chrome](https://www.google.com/intl/ru_ru/chrome/)
 - [Opera](https://www.opera.com/ru)
 
@@ -25,6 +26,7 @@
 - [VeraCrypt](https://veracrypt.fr/en/Downloads.html)
 - [BitWarden](https://github.com/bitwarden/desktop)
 - [PIA VPN](https://www.privateinternetaccess.com/)
+- [GlassWire](https://www.glasswire.com/)
 
 ## Windows
 - [StartAllBack](https://www.startallback.com/)
@@ -41,6 +43,7 @@
 - [LICEcap](https://www.cockos.com/licecap/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Focus To-Do](https://www.focustodo.cn/)
+- [Irfan View](https://www.irfanview.com/)
 
 ### Dev
 - [Windows Terminal](https://github.com/microsoft/terminal)
