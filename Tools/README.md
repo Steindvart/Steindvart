@@ -21,6 +21,7 @@
 - [Telegram](https://desktop.telegram.org/)
 - [Discord](https://discord.com/)
 - [Steam](https://store.steampowered.com/)
+- [TeamViewer](https://www.teamviewer.com/)
 
 ### Security
 - [VeraCrypt](https://veracrypt.fr/en/Downloads.html)
