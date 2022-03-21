@@ -1,4 +1,4 @@
-## 👋 Hello world. I'm Ivan.
+## 👋 Hello world.
 
 - ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
 - 📚 I like to learn new things and improve my skills.
