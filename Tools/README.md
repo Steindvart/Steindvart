@@ -35,7 +35,7 @@
 - [AIDA64](https://www.aida64.com/downloads)
 - [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
 - [Everything](https://www.voidtools.com/ru-ru/)
-- [uTorrent](#)
+- uTorrent
 
 ### Media
 - [mpc-hc](https://mpc-hc.org/)
