@@ -1,6 +1,6 @@
 ## 👋 Hello world.
 
-- ⚙️ I’m currently working as software developer in [S5 Development](http://www.s5development.com/).
+- ⚙️ I’m currently working as software developer in S5 Development.
 - 📚 I like to learn new things and improve my skills.
 - 💬 Ask me about anything tech or study related, I am happy to help.
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ivan-axenov-kalashnikov-42b06a192/).
