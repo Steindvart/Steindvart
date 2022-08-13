@@ -4,6 +4,7 @@
 - [7-Zip](https://www.7-zip.org/)
 - [Obsidian](https://obsidian.md/)
 - [Mega Sync](https://mega.nz/desktop)
+- [qTorrent](https://www.qbittorrent.org/)
 
 ### Web
 - [Brave](https://brave.com/)
@@ -35,12 +36,12 @@
 - [AIDA64](https://www.aida64.com/downloads)
 - [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
 - [Everything](https://www.voidtools.com/ru-ru/)
-- uTorrent
+- [PowerToys](https://github.com/microsoft/PowerToys)
 
 ### Media
 - [mpc-hc](https://mpc-hc.org/)
 - [OBS Studio](https://obsproject.com/ru)
-- [LightShot](https://app.prntscr.com/ru/)
+- [Flameshot](https://flameshot.org/)
 - [LICEcap](https://www.cockos.com/licecap/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Focus To-Do](https://www.focustodo.cn/)
