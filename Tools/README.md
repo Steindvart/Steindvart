@@ -16,6 +16,7 @@
 - [Python](https://www.python.org/downloads/)
 - [VSCode](https://code.visualstudio.com/)
 - [p4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
+- [Wireshark](https://www.wireshark.org/)
 - [VirtualBox](https://www.virtualbox.org/)
 
 ### Social
@@ -52,5 +53,4 @@
 - [Git Extensions](https://github.com/gitextensions/gitextensions)
 - [Process Hacker](https://github.com/processhacker/processhacker)
 - [Total Commander](https://www.ghisler.com/download.htm)
-- [Wireshark](https://www.wireshark.org/)
 - [NVM](https://docs.microsoft.com/ru-ru/windows/dev-environment/javascript/nodejs-on-windows)
