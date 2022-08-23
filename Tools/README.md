@@ -10,6 +10,7 @@
 - [Brave](https://brave.com/)
 - [Chrome](https://www.google.com/intl/ru_ru/chrome/)
 - [Opera](https://www.opera.com/ru)
+- [Yandex](https://www.opera.com/ru)
 
 ### Dev
 - [Git](https://git-scm.com/downloads)
