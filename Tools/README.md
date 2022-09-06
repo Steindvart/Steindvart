@@ -5,12 +5,13 @@
 - [Obsidian](https://obsidian.md/)
 - [Mega Sync](https://mega.nz/desktop)
 - [qTorrent](https://www.qbittorrent.org/)
+- [Thunderbird](https://www.thunderbird.net/en-US/)
 
 ### Web
 - [Brave](https://brave.com/)
 - [Chrome](https://www.google.com/intl/ru_ru/chrome/)
 - [Opera](https://www.opera.com/ru)
-- [Yandex](https://www.opera.com/ru)
+- [Yandex](https://browser.yandex.ru/?&banerid=0500000134)
 
 ### Dev
 - [Git](https://git-scm.com/downloads)
@@ -39,6 +40,7 @@
 - [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
 - [Everything](https://www.voidtools.com/ru-ru/)
 - [PowerToys](https://github.com/microsoft/PowerToys)
+- [Total Commander](https://www.ghisler.com/download.htm)
 
 ### Media
 - [mpc-hc](https://mpc-hc.org/)
@@ -53,5 +55,4 @@
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [Git Extensions](https://github.com/gitextensions/gitextensions)
 - [Process Hacker](https://github.com/processhacker/processhacker)
-- [Total Commander](https://www.ghisler.com/download.htm)
 - [NVM](https://docs.microsoft.com/ru-ru/windows/dev-environment/javascript/nodejs-on-windows)
