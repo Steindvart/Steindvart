@@ -19,18 +19,24 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![CodeWars](https://www.codewars.com/users/Steindvart/badges/small)
- <!--
+
+<!--
  ### 📊 Github stats
+-->
 <!--<details>
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>-->
+  <br/>
+-->
+<!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Steindvart&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steindvart&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/>
   </a>
+-->
 <!--</details>-->
+<!--
  <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -38,11 +44,10 @@
   </a>
 </p>
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-
+-->
 <!--
     - [x] Contacts with me
     - [ ] Pinned repo
     - [ ] Learning list
     - [ ] Improve of skills list
--->
 -->
