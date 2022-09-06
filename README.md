@@ -19,7 +19,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![CodeWars](https://www.codewars.com/users/Steindvart/badges/small)
- 
+ <!--
  ### 📊 Github stats
 <!--<details>
   <summary>💻 GitHub Profile Stats</summary>
@@ -44,4 +44,5 @@
     - [ ] Pinned repo
     - [ ] Learning list
     - [ ] Improve of skills list
+-->
 -->
