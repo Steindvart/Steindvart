@@ -25,10 +25,11 @@
 - [Telegram](https://desktop.telegram.org/)
 - [Discord](https://discord.com/)
 - [Steam](https://store.steampowered.com/)
-- [TeamViewer](https://www.teamviewer.com/)
+- [RustDesk](https://rustdesk.com/)
 
 ### Security
 - [VeraCrypt](https://veracrypt.fr/en/Downloads.html)
+- [Cryptomator](https://cryptomator.org/)
 - [BitWarden](https://github.com/bitwarden/desktop)
 - [PIA VPN](https://www.privateinternetaccess.com/)
 - [GlassWire](https://www.glasswire.com/)
