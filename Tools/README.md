@@ -16,6 +16,7 @@
 ### Dev
 - [Git](https://git-scm.com/downloads)
 - [Python](https://www.python.org/downloads/)
+- [Node.js](https://nodejs.org/)
 - [VSCode](https://code.visualstudio.com/)
 - [p4merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 - [Wireshark](https://www.wireshark.org/)
