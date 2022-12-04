@@ -33,17 +33,19 @@
 - [Cryptomator](https://cryptomator.org/)
 - [BitWarden](https://github.com/bitwarden/desktop)
 - [PIA VPN](https://www.privateinternetaccess.com/)
-- [GlassWire](https://www.glasswire.com/)
 
 ## Windows
-- [Chocolatey](https://chocolatey.org/)
+- [Chocolatey](https://chocolatey.org/) -> 
 - [StartAllBack](https://www.startallback.com/)
-- [Wox](http://www.wox.one/)
-- [AIDA64](https://www.aida64.com/downloads)
-- [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
 - [Everything](https://www.voidtools.com/ru-ru/)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [Total Commander](https://www.ghisler.com/download.htm)
+
+Optional:
+- [Wox](http://www.wox.one/)
+- [AIDA64](https://www.aida64.com/downloads)
+- [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/)
+- [GlassWire](https://www.glasswire.com/)
 
 ### Media
 - [mpc-hc](https://mpc-hc.org/)
