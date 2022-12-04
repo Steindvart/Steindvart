@@ -36,6 +36,7 @@
 - [GlassWire](https://www.glasswire.com/)
 
 ## Windows
+- [Chocolatey](https://chocolatey.org/)
 - [StartAllBack](https://www.startallback.com/)
 - [Wox](http://www.wox.one/)
 - [AIDA64](https://www.aida64.com/downloads)
