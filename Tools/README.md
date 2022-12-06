@@ -1,9 +1,10 @@
 ## Common
 
-Choco (win): [Install all]()
-Linux: [Install all]()
+- Choco (win): [Install all]()
+- Linux: [Install all]()
 
-| Data                                              | Choco (win) -> | Linux ->  |
+### Data
+|                                                   | Choco (win) -> | Linux ->  |
 |---------------------------------------------------|----------------|-----------|
 | [7-Zip](https://www.7-zip.org/)                   |    ✔️          |           |
 | [Obsidian](https://obsidian.md/)                  |    ✔️          |           |
@@ -12,7 +13,8 @@ Linux: [Install all]()
 | [Thunderbird](https://www.thunderbird.net/en-US/) |    ✔️          |           |
 | [FileZilla](https://filezilla-project.org/)       |    ✔️          |           |
 
-| Web                                                      | Choco (win) ->  | Linux ->  |
+### Web
+|                                                          | Choco (win) ->  | Linux ->  |
 |----------------------------------------------------------|-----------------|-----------|
 | [Brave](https://brave.com/)                              |       ✔️        |           |
 | [Chrome](https://www.google.com/intl/ru_ru/chrome/)      |       ✔️        |           |
@@ -20,7 +22,8 @@ Linux: [Install all]()
 | [Yandex](https://browser.yandex.ru/?&banerid=0500000134) |       ❌        |           |
 | [RustDesk](https://rustdesk.com/)                        |       ✔️        |           |
 
-| Dev                                                                                  | Choco (win) ->  | Linux ->  |
+### Dev
+|                                                                                      | Choco (win) ->  | Linux ->  |
 |--------------------------------------------------------------------------------------|-----------------|-----------|
 | [Git](https://git-scm.com/downloads)                                                 |        ✔️        |           |
 | [Python](https://www.python.org/downloads/)                                          |        ✔️        |           |
@@ -31,13 +34,15 @@ Linux: [Install all]()
 | [Wireshark](https://www.wireshark.org/)                                              |        ✔️        |           |
 | [VirtualBox](https://www.virtualbox.org/)                                            |        ✔️        |           |
 
-| Social                                    | Choco (win) ->   | Linux ->  |
+### Social
+|                                           | Choco (win) ->   | Linux ->  |
 |-------------------------------------------|------------------|-----------|
 | [Telegram](https://desktop.telegram.org/) |        ✔️        |           |
 | [Discord](https://discord.com/)           |        ✔️        |           |
 | [Steam](https://store.steampowered.com/)  |        ✔️        |           |
 
-| Security                                            | Choco (win) ->  | Linux ->  |
+### Security
+|                                                     | Choco (win) ->  | Linux ->  |
 |-----------------------------------------------------|-----------------|-----------|
 | [VeraCrypt](https://veracrypt.fr/en/Downloads.html) |        ✔️        |           |
 | [Cryptomator](https://cryptomator.org/)             |        ✔️        |           |
@@ -45,7 +50,8 @@ Linux: [Install all]()
 | [PIA VPN](https://www.privateinternetaccess.com/)   |        ✔️        |           |
 
 ## Windows
-| Common ->                                               | Choco  |
+### Common ->
+|                                                         | Choco  |
 |---------------------------------------------------------|--------|
 | [StartAllBack](https://www.startallback.com/)           |    ✔️   |
 | [Everything](https://www.voidtools.com/ru-ru/)          |    ✔️   |
@@ -53,13 +59,15 @@ Linux: [Install all]()
 | [Sysinternals](https://sysinternais.com/)               |    ✔️   |
 | [Total Commander](https://www.ghisler.com/download.htm) |    💲    |
 
-| Optional ->                                                                         | Choco   |
+### Optional ->
+|                                                                                     | Choco   |
 |-------------------------------------------------------------------------------------|---------|
 | [AIDA64](https://www.aida64.com/downloads)                                          |    💲    |
 | [Acronis Disk Director](https://www.acronis.com/en-us/products/disk-director-home/) |    ❌   |
 | [GlassWire](https://www.glasswire.com/)                                             |    ✔️   |
 
-| Media ->                                         | Choco   |
+### Media ->
+|                                                  | Choco   |
 |--------------------------------------------------|---------|
 | [mpc-hc](https://mpc-hc.org/)                    |    ✔️   |
 | [OBS Studio](https://obsproject.com/ru)          |    ✔️   |
@@ -69,7 +77,8 @@ Linux: [Install all]()
 | [Focus To-Do](https://www.focustodo.cn/)         |    ❌   |
 | [Irfan View](https://www.irfanview.com/)         |    ✔️   |
 
-| Dev ->                                                                                       | Choco   |
+### Dev ->
+|                                                                                              | Choco   |
 |----------------------------------------------------------------------------------------------|---------|
 | [Windows Terminal](https://github.com/microsoft/terminal)                                    |    ✔️   |
 | [Git Extensions](https://github.com/gitextensions/gitextensions)                             |    ✔️   |
