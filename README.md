@@ -3,7 +3,7 @@
 - ⚙️ I’m currently free :D
 - 📚 I like to learn new things and improve my skills.
 - 💬 Ask me about anything tech or study related, I am happy to help.
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ivan-axenov-kalashnikov-42b06a192/).
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/).
 
 ### 💬 Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-3267a8?style=flat-square&logo=Telegram)](https://t.me/steindvart)
