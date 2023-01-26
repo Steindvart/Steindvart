@@ -58,6 +58,9 @@
 | [Everything](https://www.voidtools.com/ru-ru/)          |    ✔️   |
 | [PowerToys](https://github.com/microsoft/PowerToys)     |    ✔️   |
 | [Sysinternals](https://sysinternais.com/)               |    ✔️   |
+| [HWiNFO](https://www.hwinfo.com/)                       |    ✔️   |
+| [Nailsoft Shell](https://nilesoft.org/)                 |    ❌   |
+| [Flux](https://justgetflux.com/)                        |    ✔️   |
 | [Total Commander](https://www.ghisler.com/download.htm) |    💲    |
 
 ### Optional -> [choco](./choco-win/install-web.ps1)

@@ -6,3 +6,4 @@ choco install flameshot -y
 choco install licecap -y
 choco install quicklook -y
 choco install irfanview -y
+choco install shotcut -y
