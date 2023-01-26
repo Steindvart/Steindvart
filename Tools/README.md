@@ -61,6 +61,7 @@
 | [HWiNFO](https://www.hwinfo.com/)                       |    ✔️   |
 | [Nailsoft Shell](https://nilesoft.org/)                 |    ❌   |
 | [Flux](https://justgetflux.com/)                        |    ✔️   |
+| [CCleaner](https://www.ccleaner.com/)                   |  ✔️-💲  |
 | [Total Commander](https://www.ghisler.com/download.htm) |    💲    |
 
 ### Optional -> [choco](./choco-win/install-web.ps1)
