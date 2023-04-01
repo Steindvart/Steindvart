@@ -1,13 +1,16 @@
- 👋 Hello world.
+ ## Ivan Kalashnikov - @Steindvart
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-kalashnikov-42b06a192)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192)
+[![Telegram](https://img.shields.io/badge/-Telegram-3267a8?logo=Telegram)](https://t.me/steindvart)
+[![Stepik Badge](https://img.shields.io/badge/-stepik-darkgreen?logo=Stepiks)](https://stepik.org/users/52348625)
 
+Just a human who strives to learn and create something wonderful and useful.
+
+### My interests
 - 📚 I like to learn new things and improve my skills.
 - 💬 Ask me about anything tech or study related, I am happy to help.
 
-### 💬 Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-3267a8?style=flat-square&logo=Telegram)](https://t.me/steindvart)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/)
-
-### 🛠️ Languages and Tools
+<!--
+## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/-C-3267a8?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-173bb3?style=flat-square&logo=cplusplus)
@@ -17,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![CodeWars](https://www.codewars.com/users/Steindvart/badges/small)
+-->
 
 <!--
  ### 📊 Github stats
