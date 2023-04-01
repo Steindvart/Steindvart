@@ -6,6 +6,7 @@
 Just a human who strives to learn and create something wonderful and useful.
 
 ### My interests
+- 💻 Open source software: cyber security, socially-oriented, system administrations tools and solutions.
 - 📚 I like to learn new things and improve my skills.
 - 💬 Ask me about anything tech or study related, I am happy to help.
 
