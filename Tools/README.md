@@ -13,6 +13,7 @@
 | [Thunderbird](https://www.thunderbird.net/en-US/) |      ✔️      |         |
 | [FileZilla](https://filezilla-project.org/)       |      ✔️      |         |
 | [OnlyOffice](https://www.onlyoffice.com/)         |      ✔️      |         |
+| [Anki](https://apps.ankiweb.net/)                 |      ✔️      |         |
 
 ### Web -> [choco](./choco-win/install-web.ps1) | [linux]()
 |                                                          | Choco (win)  | Linux    |

@@ -6,3 +6,4 @@ choco install megasync -y
 choco install qbittorrent -y
 choco install thunderbird -y
 choco install onlyoffice -y
+choco install anki -y
