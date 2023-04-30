@@ -11,6 +11,7 @@ choco install thunderbird -y
 choco install onlyoffice -y
 choco install sumatrapdf -y
 choco install okular -y
+choco install languagetool -y # TODO - need security check
 
 # Education and productivity
 choco install obsidian -y
