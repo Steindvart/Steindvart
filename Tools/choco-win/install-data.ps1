@@ -4,6 +4,7 @@
 # Work with data
 choco install 7zip -y
 choco install megasync -y
+choco install synctrayzor -y
 choco install qbittorrent -y
 
 # Office and readers (pdf, epub, etc.)
