@@ -6,6 +6,7 @@ choco install 7zip -y
 choco install megasync -y
 choco install synctrayzor -y
 choco install qbittorrent -y
+choco install filezilla -y
 
 # Office and readers (pdf, epub, etc.)
 choco install thunderbird -y
