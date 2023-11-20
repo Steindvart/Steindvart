@@ -1,5 +1,7 @@
 # Use comment (#) to exclude install
 
+$flags = "-y --ignore-checksums"
+
 powershell .\install-data.ps1
 powershell .\install-dev.ps1
 powershell .\install-security.ps1

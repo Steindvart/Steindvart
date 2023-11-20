@@ -1,5 +1,5 @@
 # Use comment (#) to exclude install
 
-choco install telegram -y
-choco install discord -y
-choco install steam -y
+choco install telegram $choco_flags
+choco install discord $choco_flags
+choco install steam $choco_flags

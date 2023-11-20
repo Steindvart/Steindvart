@@ -1,6 +1,6 @@
 # Use comment (#) to exclude install
 
-choco install brave -y
-choco install googlechrome-allusers -y
-choco install opera -y
-choco install rustdesk -y
+choco install brave $choco_flags
+choco install googlechrome-allusers $choco_flags
+choco install opera $choco_flags
+choco install rustdesk $choco_flags

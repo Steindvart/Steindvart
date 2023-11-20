@@ -1,9 +1,9 @@
 # Use comment (#) to exclude install
 
-choco install mpc-hc -y
-choco install obs-studio -y
-choco install flameshot -y
-choco install licecap -y
-choco install quicklook -y
-choco install irfanview -y
-choco install shotcut -y
+choco install mpc-hc $choco_flags
+choco install obs-studio $choco_flags
+choco install flameshot $choco_flags
+choco install licecap $choco_flags
+choco install quicklook $choco_flags
+choco install irfanview $choco_flags
+choco install shotcut $choco_flags

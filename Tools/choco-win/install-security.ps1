@@ -1,6 +1,6 @@
 # Use comment (#) to exclude install
 
-choco install veracrypt -y
-choco install cryptomator -y
-choco install bitwarden -y
-choco install pia -y
+choco install veracrypt $choco_flags
+choco install cryptomator $choco_flags
+choco install bitwarden $choco_flags
+choco install pia $choco_flags
