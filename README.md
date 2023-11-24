@@ -1,4 +1,4 @@
- ## Ivan Kalashnikov - @Steindvart
+ ## Ivan Kalashnikov - Steindvart | gehnaeli
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-kalashnikov-42b06a192)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192)
 [![Telegram](https://img.shields.io/badge/-Telegram-3267a8?logo=Telegram)](https://t.me/steindvart)-->
 [![Stepik Badge](https://img.shields.io/badge/-stepik-darkgreen?logo=Stepiks)](https://stepik.org/users/52348625)
