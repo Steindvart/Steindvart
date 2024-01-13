@@ -6,7 +6,7 @@
 Just a human who strives to learn and create something wonderful and useful.
 
 ### My interests
-- 💻 Open source software: work with data tools and solutions.
+- 💻 Open source software: tools of working with data and knowledge.
 - 🎓 Participant of School 21 - **gehnaeli** (the Russian equivalent of School 42).
 - 📚 I like to learn new things and improve my skills.
 - 💬 Ask me about anything tech or study related, I am happy to help.
