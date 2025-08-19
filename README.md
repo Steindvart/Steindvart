@@ -1,9 +1,12 @@
- ## Ivan Kalashnikov - Steindvart | gehnaeli
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-kalashnikov-42b06a192)](https://www.linkedin.com/in/ivan-kalashnikov-42b06a192)
-[![Telegram](https://img.shields.io/badge/-Telegram-3267a8?logo=Telegram)](https://t.me/steindvart)-->
-[![Stepik Badge](https://img.shields.io/badge/-stepik-darkgreen?logo=Stepiks)](https://stepik.org/users/52348625)
+<pre align="center">
+    <strong>👨‍💻 Ivan Kalashnikov </strong> | <a href="https://t.me/inank_t">Telegram</a> | <a href="https://stepik.org/users/52348625">Stepik</a> | <a href="https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/">LinkedIn</a>
+</pre>
 
-Just a human who strives to learn and create something wonderful and useful.
+<img src="https://raw.githubusercontent.com/Steindvart/Steindvart/master/github-metrics.svg" alt="GitHub Metrics" align="right" width="400px" />
+
+<i>Just a human who strives to learn and create something wonderful and useful.</i>
+
+I work as a **Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.com/).
 
 ### My interests
 - 💻 Open source software: tools of working with data and knowledge.
