@@ -8,11 +8,7 @@
 
 I work as a **Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.com/).
 
-### My interests
-- 💻 Open source software: tools of working with data and knowledge.
-- 🎓 Participant of School 21 - **gehnaeli** (the Russian equivalent of School 42).
-- 📚 I like to learn new things and improve my skills.
-- 💬 Ask me about anything tech or study related, I am happy to help.
+I am also a alumni of School 21. Nickname in the community - **gehnaeli**.
 
 <!--
 ## 🛠️ Languages and Tools
