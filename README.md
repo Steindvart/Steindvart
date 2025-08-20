@@ -10,6 +10,19 @@ I work as a **Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.c
 
 I am also a alumni of School 21. Nickname in the community - **gehnaeli**.
 
+My area of interest includes `backend`, `fintech`, `DeFi`, `AI`, `knowledge tools`, `open-source`.
+
+At work, I specialize in developing of the core trading system for conducting exchange trading on the derivatives market.
+
+<h3>Main Stack</h3>
+
+![Main Stack](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,cmake,gradle,linux,qt,git,sonarqube)
+
+
+<h4>Extended Stack</h4>
+
+![Extended Stack](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,vuejs,fastapi,yii,dotnet)
+
 <!--
 ## 🛠️ Languages and Tools
 
