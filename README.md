@@ -15,11 +15,19 @@ My area of interest includes `backend`, `fintech`, `DeFi`, `AI`, `knowledge tool
 At work, I specialize in developing of the core trading system for conducting exchange trading on the derivatives market.
 
 
-<h3>Main Stack</h3>
+<h4>Main Stack</h4>
 
-<a href="https://go-skill-icons.vercel.app/">
+<a href="https://github.com/Steindvart">
     <img width="400px"
       src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,cmake,gradle,linux,qt,git,sonarqube"
+    />
+</a>
+
+<h4>Extended Stack</h4>
+
+<a href="https://github.com/Steindvart">
+    <img width="300px"
+      src="https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,vuejs,fastapi,yii,dotnet"
     />
 </a>
 
