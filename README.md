@@ -2,7 +2,7 @@
     <strong>👨‍💻 Ivan Kalashnikov </strong> | <a href="https://t.me/inank_t">Telegram</a> | <a href="https://stepik.org/users/52348625">Stepik</a> | <a href="https://www.linkedin.com/in/ivan-kalashnikov-42b06a192/">LinkedIn</a>
 </pre>
 
-<img src="https://raw.githubusercontent.com/Steindvart/Steindvart/master/github-metrics.svg" alt="GitHub Metrics" align="right" width="520px" />
+<img src="https://raw.githubusercontent.com/Steindvart/Steindvart/master/github-metrics.svg" alt="GitHub Metrics" align="right" width="430px" />
 
 <i>Just a human who strives to learn and create something wonderful and useful.</i>
 
