@@ -6,7 +6,7 @@
 
 <i>Just a human who strives to learn and create something wonderful and useful.</i>
 
-I work as a **Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.com/).
+I work as a **Senior Software Engineer** at [Moscow Exchange (MOEX)](https://www.moex.com/).
 
 I am also a alumni of School 21 - **gehnaeli**.
 
