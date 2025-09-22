@@ -19,6 +19,6 @@ At work, I specialize in developing of the core trading system for conducting ex
 
 <a href="https://github.com/Steindvart">
     <img width="350px" align="left"
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,cmake,gradle,linux,qt,git,sonarqube,docker,jenkins,vuejs,fastapi,yii,dotnet&perline=7"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,go,python,cmake,gradle,linux,qt,git,sonarqube,docker,jenkins,vuejs,fastapi,yii,dotnet&perline=8"
     />
 </a>
