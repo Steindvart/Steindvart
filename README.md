@@ -12,7 +12,7 @@ I am also a alumni of School 21 - **gehnaeli**.
 
 My area of interest includes `backend`, `fintech`, `DeFi`, `AI`, `knowledge tools`, `open-source`.
 
-At work, I specialize in developing of the core trading system for conducting exchange trading on the derivatives market.
+At work, I specialize in developing core of the trading system for conducting exchange trading on the derivatives market.
 
 
 <h4>Technology Stack</h4>
